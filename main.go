@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/luoliwoshang/xgopilot-test/fib"
+	"github.com/luoliwoshang/xgopilot-fib-test/fib"
 )
 
 func main() {

@@ -1,3 +1,3 @@
-module github.com/luoliwoshang/xgopilot-test
+module github.com/luoliwoshang/xgopilot-fib-test
 
 go 1.25.4
